@@ -1,0 +1,10 @@
+STOCK PORTFOLIO REPORT
+==================================================
+
+Stock: AAPL
+Quantity: 10
+Price per Share: Rs. 180.00
+Investment: Rs. 1,800.00
+----------------------------------------
+
+Total Investment: Rs. 1,800.00
